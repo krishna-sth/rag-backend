@@ -79,7 +79,7 @@ http://localhost:8000/docs
   Conversational RAG endpoint supporting multi-turn queries.  
   This endpoint also supports interview booking via natural language (name, email, date, time).
 
-## Notes
+<!-- ## Notes
 
 - Interview booking is handled conversationally within the `/chat` endpoint using the LLM.
-- No UI is included.
+- No UI is included. -->
