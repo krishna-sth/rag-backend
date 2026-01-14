@@ -82,4 +82,4 @@ http://localhost:8000/docs
 ## Notes
 
 - Interview booking is handled conversationally within the `/chat` endpoint using the LLM.
-- No UI is included, as per assignment instructions.
+- No UI is included.
